@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [nested comment section](https://github.com/krishnagoyal22/nested-reddit-comments)
 
-- 🌱 I’m currently learning **express, fastify, prisma, postgresql**
+- 🌱 I’m currently learning **mongoDB, fastify, prisma, postgresql**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, express.js **
 
 - 📫 How to reach me **goyalkrishna006@gmail.com**
 
