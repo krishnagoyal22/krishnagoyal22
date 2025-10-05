@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **mongoDB, fastify, prisma, postgresql**
 
-- 💬 Ask me about **React, express.js **
+- 💬 Ask me about **React, express.js**
 
 - 📫 How to reach me **goyalkrishna006@gmail.com**
 
