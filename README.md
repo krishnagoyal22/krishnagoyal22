@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on apps using RAG and finetuning using Qlora 
 
-- 🌱 I’m currently learning **mongoDB, fastify, prisma, postgresql**
+- 🌱 I’m currently learning **Langchain, Lang Graph, hugging face**
 
-- 💬 Ask me about **React, express.js**
+- 💬 Ask me about **Large Language Models**
 
 - 📫 How to reach me **goyalkrishna006@gmail.com**
 
