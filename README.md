@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [nested comment section](https://github.com/krishnagoyal22/nested-reddit-comments)
+- 🔭 I’m currently working on apps using RAG and finetuning using Qlora 
 
 - 🌱 I’m currently learning **mongoDB, fastify, prisma, postgresql**
 
